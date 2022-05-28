@@ -55,3 +55,7 @@ compile_commands.json
 mv_api
 /mv_api
 /mv_api/*
+./.ex_Code/
+.ex_Code
+.ex_Code/
+.ex_Code/*
