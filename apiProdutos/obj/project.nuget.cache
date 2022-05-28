@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KPV6rCXAkVj10HCMU+nO3K3yQGMCl76557cURsp5+yOxUDiF6YkzDlRWC7MM3UQPKl4xsKhw0cl7Wt1onjt24A==",
+  "success": true,
+  "projectFilePath": "/media/rvlyra/Armazem/Dev/Git Projects/Github/api_dotnet_test/apiProdutos/apiProdutos.csproj",
+  "expectedPackageFiles": [
+    "/home/rvlyra/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/rvlyra/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/rvlyra/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/rvlyra/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/rvlyra/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/rvlyra/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
